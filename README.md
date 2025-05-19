@@ -21,7 +21,7 @@ A full-stack web application designed to **gather insightful feedback** from stu
 📱 Responsive Design - Works seamlessly on all devices
 
 ## 📁 Project Structure
-
+```plaintext
 college-feedback-system/
 ├── backend/  FastAPI backend
 │ ├── app/
