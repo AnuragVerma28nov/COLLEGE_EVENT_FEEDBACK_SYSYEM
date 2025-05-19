@@ -13,14 +13,29 @@ A full-stack web application designed to **gather insightful feedback** from stu
 ---
 
 ### ✨ Features
+```plaintext
+🔐Role-based Access Control 
+Student and admin interfaces
+Different permission levels
 
-🎤 Event Feedback Collection - Students can submit feedback for college events
-📊 Real-time Sentiment Analysis - Powered by TextBlob/NLTK for instant feedback evaluation
-👩‍💼 Admin Dashboard - Visual insights into feedback trends and sentiment patterns
-🔐 Role-based Access - Separate interfaces for students and administrators
-📱 Responsive Design - Works seamlessly on all devices
+🎤Comprehensive Feedback System
+10-point rating scale
+Detailed text feedback
+Event-specific submissions
 
-## 📁 Project Structure
+📊 Advanced Analytics
+Real-time sentiment analysis
+Trend visualization
+Participation metrics
+
+👩‍💼User Management
+Secure authentication
+Profile customization
+Password recovery
+
+--
+
+### 📁 Project Structure
 ```plaintext
 college-feedback-system/
 ├── backend/  FastAPI backend
@@ -60,28 +75,63 @@ college-feedback-system/
 
 --
 
-## 🚀 UI Overview
-### 1. 🔐 Login & Signup
-- OAuth 
-- College email validation
+### 🎨 UI Showcase
 
-### 2. 🔓 Landing Page (Before Login)
-- Hero section with CTA
-- Features: Feedback Submission, Sentiment Analysis, Admin Dashboard
+1. Registration Page
 
+- Clean, intuitive signup form
+- Required fields: Full Name, College Email, Password, Student ID
+- Terms and conditions checkbox
+- Option to sign in for existing users
 
-### 3. 📋 Dashboard (Post-login)
-- Sidebar Navigation
-- Cards:
-  - Submit Feedback
-  - Upcoming Events
-  - Feedback History with Sentiment badges
+2. Login Page
 
-### 4. ✍️ Feedback Form
-- Event Selector
-- Star Rating
-- Real-time Sentiment Result (smiley/frown)
-- Submit Feedback
+- Simple authentication form
+- Remember me option
+- Test credentials provided:
+  - Student: student@college.edu / password
+  - Admin: admin@college.edu / password
+- Link to registration for new users
+
+3. User Dashboard
+
+- Personalized welcome message
+- Completed events section with feedback options
+- Event cards with dates and descriptions
+- Quick access to feedback history
+
+4. Feedback 
+
+- Event selection dropdown
+- 10-point rating system
+- Detailed feedback text area
+- Clean submission button
+
+5. Upcoming Events 
+
+- Comprehensive list of future events
+- Clear event cards with dates
+- Easy navigation to provide feedback
+6. Feedback Analytics
+
+- Sentiment distribution pie chart
+- Feedback trends over time
+- Key statistics (total feedback, avg rating)
+- Recent feedback snippets
+
+7. User Profile
+
+- Personal information display
+- Account security options
+- Password change functionality
+- Department and year information
+
+8. Feedback History 
+
+- Chronological list of all submissions
+- Event names and dates
+- Original feedback text
+- Sentiment indicators
 
 ---
 
