@@ -58,11 +58,6 @@ college-feedback-system/
 ├── .gitignore
 └── README.md
 
----
-
-### 🖥️ Screenshots
-Landing Page	User Dashboard	Admin Analytics
-
 --
 
 ## 🚀 UI Overview
