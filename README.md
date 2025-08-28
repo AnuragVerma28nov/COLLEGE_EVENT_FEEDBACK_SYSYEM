@@ -5,10 +5,9 @@ A full-stack web application designed to **gather insightful feedback** from stu
 ---
 
 ## 🔧 Tech Stack
-- **Frontend**: React + TypeScript + Tailwind CSS
-- **Backend**: FastAPI
-- **Authentication**: JWT-based auth (Google & Microsoft OAuth supported)
-- **Deployment**: Netlify 
+- **Frontend**: React js  + HTML + CSS + JS
+- **Backend**: Node js
+- **Deployment**:Github, Netlify 
 
 ---
 
@@ -153,25 +152,6 @@ npm run dev
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
-### 3. Backend Setup (FastAPI)
-
-cd backend
-python -m venv venv
-source venv/bin/activate  # on Windows: venv\Scripts\activate
-pip install -r requirements.txt
-uvicorn app.main:app --reload
-
-### 4. Environment Variables
-
-**Frontend (frontend/.env)**
-VITE_API_URL=http://localhost:8000
-
-**Backend (backend/.env)**
-
-DATABASE_URL=postgresql://user:pass@localhost:5432/feedback_db
-JWT_SECRET_KEY=user:pass@localhost:5432/feedback_db
-
----
 
 ### 📊 Features Summary
 
