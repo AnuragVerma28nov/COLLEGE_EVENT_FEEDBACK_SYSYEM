@@ -10,9 +10,11 @@ A full-stack web application designed to **gather insightful feedback** from stu
 
 <img src="Screenshots/1.png" alt="Dashboard" height="230">       <img src="Screenshots/2.png" alt="Feedback" height="230">
 
-<img src="Screenshots/3.png" alt="Events" height="230">       <img src="Screenshots/4.png" alt="Analysis" height="230">
+<img src="Screenshots/3.png" alt="Events" height="230">          <img src="Screenshots/4.png" alt="Analysis" height="230">
 
-<img src="Screenshots/5.png" alt="Profil" height="230">       <img src="Screenshots/6.png" alt="Login/Signup" height="230">
+<img src="Screenshots/5.png" alt="Profil" height="230">          <img src="Screenshots/6.png" alt="Login/Signup" height="230">
+
+<img src="Screenshots/7.png" alt="Login/Signup" height="230">
 
 ---
 
