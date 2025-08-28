@@ -4,6 +4,14 @@ A full-stack web application designed to **gather insightful feedback** from stu
 
 ---
 
+---
+
+## Screenshots
+![forest](images/forest.jpg)
+
+---
+
+
 ## 🔧 Tech Stack
 - **Frontend**: React js  + HTML + CSS + JS
 - **Backend**: Node js
