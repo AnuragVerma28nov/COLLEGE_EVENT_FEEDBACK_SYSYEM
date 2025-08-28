@@ -4,8 +4,6 @@ A full-stack web application designed to **gather insightful feedback** from stu
 
 ---
 
----
-
 ## 🖼️Screenshots
 
 <img src="Screenshots/1.png" alt="Dashboard" height="230">       <img src="Screenshots/2.png" alt="Feedback" height="230">
