@@ -7,9 +7,8 @@ A full-stack web application designed to **gather insightful feedback** from stu
 ---
 
 ## 🖼️Screenshots
-![HOME](Screenshots/1.png)![HOME](Screenshots/1.png)
-![HOME](Screenshots/1.png)
-![HOME](Screenshots/1.png)![HOME](Screenshots/1.png)
+<img src="Screenshots/1.png" alt="Alt text" height="150">
+
 
 ---
 
