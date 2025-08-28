@@ -24,8 +24,8 @@ A full-stack web application designed to **gather insightful feedback** from stu
 
 ---
 
-### ✨ Features
-```
+## ✨ Features
+
 🔐Role-based Access Control 
 Student and admin interfaces
 Different permission levels
@@ -45,12 +45,12 @@ Secure authentication
 Profile customization
 Password recovery
 
---
+---
 
-### 📁 Project Structure
+## 📁 Project Structure
 ```plaintext
 college-feedback-system/
-├── frontend/ # React + Tailwind 
+|
 │ ├── node_modules/
 │ ├──Screenshots
 │ ├──PPT
@@ -78,7 +78,7 @@ college-feedback-system/
 ├── .gitignore
 └── README.md
 
---
+---
 
 ### 🎨 UI Showcase
 
@@ -184,7 +184,7 @@ npx tailwindcss init -p
 📥 CSV export of feedback
 🔒 Role-based access control
 
---
+---
 
 ### 🤝 Contributors
 
@@ -200,3 +200,5 @@ Members-
   - Anurag Verma 
   - Year: 2025  
 Thank you for visiting this repository!
+
+---
