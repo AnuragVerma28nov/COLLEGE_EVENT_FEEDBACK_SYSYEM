@@ -7,7 +7,7 @@ A full-stack web application designed to **gather insightful feedback** from stu
 ---
 
 ## 🖼️Screenshots
-![forest](images/forest.jpg)
+![forest](scr/1.jpg)
 
 ---
 
@@ -45,17 +45,10 @@ Password recovery
 ### 📁 Project Structure
 ```plaintext
 college-feedback-system/
-├── backend/  FastAPI backend
-│ ├── app/
-│ │ ├── api/
-│ │ ├── models/
-│ │ ├── schemas/
-│ │ ├── services/
-│ │ └── main.py
-│ └── requirements.txt
-│
-├── frontend/ # React + Tailwind + Vite
+├── frontend/ # React + Tailwind 
 │ ├── node_modules/
+│ ├──Screenshots
+│ ├──PPT
 │ ├── src/
 │ │ ├── components/
 │ │ │ ├── analytics/
