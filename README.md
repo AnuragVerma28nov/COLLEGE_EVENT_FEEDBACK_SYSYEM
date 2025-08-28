@@ -7,7 +7,7 @@ A full-stack web application designed to **gather insightful feedback** from stu
 ## 🔧 Tech Stack
 - **Frontend**: React js  + HTML + CSS + JS
 - **Backend**: Node js
-- **Deployment**: Github, Netlify 
+- **Deployment**: Github, NetlifY
 
 ---
 
