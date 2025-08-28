@@ -4,6 +4,65 @@ A full-stack web application designed to **gather insightful feedback** from stu
 
 ---
 
+
+## 🖼️Screenshots
+
+<img src="Screenshots/1.png" alt="Dashboard" height="200">       <img src="Screenshots/2.png" alt="Feedback" height="200">
+
+<img src="Screenshots/3.png" alt="Events" height="200">          <img src="Screenshots/4.png" alt="Analysis" height="200">
+
+<img src="Screenshots/5.png" alt="Profil" height="200">          <img src="Screenshots/6.png" alt="Login/Signup" height="200">
+
+<img src="Screenshots/7.png" alt="Login/Signup" height="200">
+
+---
+
+## 📁 Project Structure
+
+```
+CollegeEventFeedbackSystem/
+│
+├── .gitignore
+├── package.json
+├── tsconfig.json
+├── tsconfig.app.json
+├── tsconfig.node.json
+├── vite.config.ts
+├── postcss.config.js
+├── tailwind.config.js
+├── index.html
+├── College-Event-Feedback-System.pptx
+│
+├── Screenshots/
+│   └── 1.png, 2.png, 3.png, 4.png, 5.png, 6.png, 7.png
+│
+└── src/
+    ├── App.tsx                # Main app component and routing
+    ├── main.tsx               # React entry point
+    ├── index.css              # Global styles (Tailwind)
+    ├── vite-env.d.ts          # Vite environment types
+    │
+    ├── components/
+    │   ├── analytics/         # Charts and analytics components
+    │   ├── auth/              # Auth-related components
+    │   ├── common/            # Shared UI components (e.g., Footer)
+    │   ├── dashboard/         # Dashboard UI components
+    │   ├── feedback/          # Feedback form and related components
+    │   └── layouts/           # Layouts for Student/Admin pages
+    │
+    ├── contexts/
+    │   └── AuthContext.tsx    # Authentication context provider
+    │
+    ├── pages/
+    │   ├── admin/             # Admin pages (Dashboard, Events, Feedback, Analysis, Profile)
+    │   ├── auth/              # Login/Register pages
+    │   └── student/           # Student pages (Dashboard, Events, Feedback, Profile, Analysis)
+    │
+    └── services/
+        └── api.ts             # API service layer
+```
+---
+
 ## 🔧 Tech Stack
 - **Frontend**: React js  + HTML + CSS + JS
 - **Backend**: Node js
@@ -31,18 +90,6 @@ Participation metrics
 Secure authentication
 Profile customization
 Password recovery
-
----
-
-## 🖼️Screenshots
-
-<img src="Screenshots/1.png" alt="Dashboard" height="200">       <img src="Screenshots/2.png" alt="Feedback" height="200">
-
-<img src="Screenshots/3.png" alt="Events" height="200">          <img src="Screenshots/4.png" alt="Analysis" height="200">
-
-<img src="Screenshots/5.png" alt="Profil" height="200">          <img src="Screenshots/6.png" alt="Login/Signup" height="200">
-
-<img src="Screenshots/7.png" alt="Login/Signup" height="200">
 
 ---
 
@@ -168,3 +215,4 @@ Members-<br>
 Thank you for visiting this repository!<br>
 
 ---
+
