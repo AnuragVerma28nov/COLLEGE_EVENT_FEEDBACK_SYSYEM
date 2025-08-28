@@ -25,7 +25,7 @@ A full-stack web application designed to **gather insightful feedback** from stu
 ---
 
 ### ✨ Features
-```plaintext
+```
 🔐Role-based Access Control 
 Student and admin interfaces
 Different permission levels
@@ -138,6 +138,11 @@ college-feedback-system/
 - Original feedback text
 - Sentiment indicators
 
+9. Footer
+
+All rights reserved@feedbackhHub
+  Designed by- Team GodLike
+
 ---
 
 ## 🛠️ Setup Instructions
@@ -158,6 +163,7 @@ npm run dev
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
+--
 
 ### 📊 Features Summary
 
@@ -188,15 +194,9 @@ Members-
       2.**Kartik Singh**
       3.**Aditya**
 
---
-
-### 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 
-### 🏫 Footer
-
-All rights reserved@feedbackhHub
-  Designed by- Team GodLike
+## 🧑‍💻 Author
+  - Anurag Verma 
+  - Year: 2025  
+Thank you for visiting this repository!
