@@ -6,7 +6,7 @@ A full-stack web application designed to **gather insightful feedback** from stu
 
 ---
 
-## Screenshots
+## 🖼️Screenshots
 ![forest](images/forest.jpg)
 
 ---
