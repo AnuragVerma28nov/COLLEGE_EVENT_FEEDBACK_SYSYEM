@@ -4,19 +4,6 @@ A full-stack web application designed to **gather insightful feedback** from stu
 
 ---
 
-## 🖼️Screenshots
-
-<img src="Screenshots/1.png" alt="Dashboard" height="200">       <img src="Screenshots/2.png" alt="Feedback" height="200">
-
-<img src="Screenshots/3.png" alt="Events" height="200">          <img src="Screenshots/4.png" alt="Analysis" height="200">
-
-<img src="Screenshots/5.png" alt="Profil" height="200">          <img src="Screenshots/6.png" alt="Login/Signup" height="200">
-
-<img src="Screenshots/7.png" alt="Login/Signup" height="200">
-
----
-
-
 ## 🔧 Tech Stack
 - **Frontend**: React js  + HTML + CSS + JS
 - **Backend**: Node js
@@ -47,40 +34,19 @@ Password recovery
 
 ---
 
-## 📁 Project Structure
-```plaintext
-college-feedback-system/
-|
-│ ├── node_modules/
-│ ├──Screenshots
-│ ├──PPT
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── analytics/
-│ │ │ ├── auth/
-│ │ │ ├── common/
-│ │ │ ├── dashboard/
-│ │ │ ├── feedback/
-│ │ │ └── layouts/
-│ │ ├── contexts/
-│ │ ├── pages/
-│ │ │ ├── admin/
-│ │ │ ├── auth/
-│ │ │ └── student/
-│ │ ├── services/ # API integration
-│ │ ├── App.tsx
-│ │ ├── main.tsx
-│ │ └── index.css
-│ ├── tailwind.config.js
-│ ├── vite.config.ts
-│ └── package.json
-│
-├── .gitignore
-└── README.md
+## 🖼️Screenshots
+
+<img src="Screenshots/1.png" alt="Dashboard" height="200">       <img src="Screenshots/2.png" alt="Feedback" height="200">
+
+<img src="Screenshots/3.png" alt="Events" height="200">          <img src="Screenshots/4.png" alt="Analysis" height="200">
+
+<img src="Screenshots/5.png" alt="Profil" height="200">          <img src="Screenshots/6.png" alt="Login/Signup" height="200">
+
+<img src="Screenshots/7.png" alt="Login/Signup" height="200">
 
 ---
 
-### 🎨 UI Showcase
+## 🎨 UI Showcase
 
 1. Registration Page
 
@@ -140,8 +106,8 @@ college-feedback-system/
 
 9. Footer
 
-All rights reserved@feedbackhHub
-  Designed by- Team GodLike
+All rights reserved@feedbackhHub<br>
+  Designed by- Team GodLike<br>
 
 ---
 
@@ -149,56 +115,56 @@ All rights reserved@feedbackhHub
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/college-feedback-system.git
-cd college-feedback-system
+git clone https://github.com/AnuragVerma28nov/CollegeEventFeedbackSystem.git<br>
+cd CollegeEventFeedbackSystem
 
 ### 2. Frontend Setup (React + Vite)
 
-cd frontend
-npm install
-npm run dev
+cd frontend<br>
+npm install<br>
+npm run dev<br>
 
-**Install Tailwind CSS**
+### 3. Install Tailwind CSS
 
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
+npm install -D tailwindcss postcss autoprefixer<br>
+npx tailwindcss init -p<br>
 
---
+---
 
-### 📊 Features Summary
+## 📊 Features Summary
 
-✅ Student authentication
-✅ Admin portal
-✅ Feedback submission
-✅ Sentiment analysis (real-time)
-✅ Event management
-✅ Feedback history
-✅ Responsive design (Tailwind)
+✅ Student authentication<br>
+✅ Admin portal<br>
+✅ Feedback submission<br>
+✅ Sentiment analysis (real-time)<br>
+✅ Event management<br>
+✅ Feedback history<br>
+✅ Responsive design (Tailwind)<br>
 
 ----
 
-### 📦 Future Enhancements
+## 📦 Future Enhancements
 
-📈 Analytics charts (dashboard)
-📨 Email notifications
-📥 CSV export of feedback
-🔒 Role-based access control
-
----
-
-### 🤝 Contributors
-
-**Team Name- GodLike**
-Members-
-      1.**Anurag Verma**
-      2.**Kartik Singh**
-      3.**Aditya**
+📈 Analytics charts (dashboard)<br>
+📨 Email notifications<br>
+📥 CSV export of feedback<br>
+🔒 Role-based access control<br>
 
 ---
 
-## 🧑‍💻 Author
-  - Anurag Verma 
-  - Year: 2025  
-Thank you for visiting this repository!
+## 🤝 Contributors
+
+**Team Name- GodLike**<br>
+Members-<br>
+      1.**Anurag Verma**<br>
+      2.**Kartik Singh**<br>
+      3.**Aditya**<br>
+
+---
+
+## 🧑‍💻 Author<br>
+  - Anurag Verma <br>
+  - Year: 2025  <br>
+Thank you for visiting this repository!<br>
 
 ---
