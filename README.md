@@ -7,7 +7,7 @@ A full-stack web application designed to **gather insightful feedback** from stu
 ---
 
 ## 🖼️Screenshots
-![forest](scr/1.jpg)
+![HOME](SCR/1.png)
 
 ---
 
