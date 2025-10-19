@@ -212,7 +212,7 @@ Members-<br>
 ## 🧑‍💻 Author<br>
   - Anurag Verma <br>
   - Year: 2025  <br>
-Thank you for vsiting this repository!<br>
+Thank you for visiting this repository!<br>
 
 ---
 
