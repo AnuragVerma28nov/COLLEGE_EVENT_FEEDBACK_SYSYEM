@@ -17,7 +17,7 @@ A web application designed to **gather insightful feedback** from students on co
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structur
 
 ```
 CollegeEventFeedbackSystem/
