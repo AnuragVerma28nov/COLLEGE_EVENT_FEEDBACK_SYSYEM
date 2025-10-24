@@ -5,7 +5,7 @@ A web application designed to **gather insightful feedback** from students on co
 ---
 
 
-## 🖼️Screenshots
+## 🖼️Screenshot
 
 <img src="Screenshots/1.png" alt="Dashboard" height="200">       <img src="Screenshots/2.png" alt="Feedback" height="200">
 
